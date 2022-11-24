@@ -1,4 +1,4 @@
-# Spring Con Annotations
+# Spring MVC
 
 This is a project that I create following the tutorial on youtube [Curso Spring][def] to learn Spring. In this project I see how implements MVC with Spring in a web project.
 It has some dependecies:
