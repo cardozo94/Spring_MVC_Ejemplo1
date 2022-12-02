@@ -1,6 +1,6 @@
 # Spring MVC
 
-This is a project that I create following the tutorial on youtube [Curso Spring][def] to learn Spring. In this project I see how implements MVC with Spring in a web project.
+This is a project that I create following the tutorial on youtube [Curso Spring][def] to learn Spring. In this project I see how implements MVC with Spring in a web project. It's running over Java 1.8.
 It has some dependecies:
 
 - spring-webflux-5.3.9.jar
